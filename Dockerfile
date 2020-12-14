@@ -6,7 +6,7 @@ ENV GO111MODULE=on
 
 ENV GOFLAGS=-mod=vendor
 ENV APP_USER app
-ENV APP_HOME /go/src/mathapp
+ENV APP_HOME /go/src/simple-algebra-docker
 
 ARG GROUP_ID
 ARG USER_ID
